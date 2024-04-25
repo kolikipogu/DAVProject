@@ -1,5 +1,8 @@
 
-#DAV Project
+# Title : Redlining Analysis - Examining Two Major US Banks
+# Course : Data Analysis and Visualization
+# Code : 22ADE01
+# Faculty Course Instructor : Dr Ramakrishna Kolikipogu, Professor of IT, CBIT, Hyderabad
 # Redlining Analysis: Examining Two Major US Banks
 
 ## Overview
